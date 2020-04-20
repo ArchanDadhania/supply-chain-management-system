@@ -1,0 +1,333 @@
+/* CSS Document */
+
+body {
+	margin:0px; BACKGROUND-COLOR: #FFFFFF; 
+		color: #109502; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:10pt;
+	
+	}
+	
+
+.cap1
+
+	{ 
+	color: #834991; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:10pt;
+	padding-left:1px;
+	padding-top:1px;
+	padding-bottom:1px; 
+}
+
+.tdmenu
+
+	{ 
+	border-right: 2px solid #FF9A00;
+}
+
+.top2
+
+	{
+		background-color: #FBE3A6; 
+	border-bottom: 2px solid #FF9A00;
+}
+
+.topbg  { 
+	color: #109502; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:13px; background-image:url('images/top_bg.gif')
+	}
+	
+	.buttonbg  { 
+	color: #ffffff; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:13px; background-image:url('images/button_bg.gif')
+	}
+	
+h1  { 
+	color: #FFFFFF; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:12px;
+	}
+	
+h2  { 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size: 11px;
+	color: #eed8f4;
+	}
+	
+.text1 
+	{ 
+	color: #ffffff; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:11px; 
+	}
+	
+.text2 
+	{ 
+	color: #834991; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:11.5px; 
+	}
+	
+.text2_1
+	{ 
+	color: #834991; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:11.5px; background-color:#F7F0F8 
+	}
+	
+.text2_2
+	{ 
+	color: #834991; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:11.5px; background-color:#F8F2F9 
+	}
+	
+.text3 
+	{ 
+	color: red; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:11.5px; 
+	}
+	
+.text3_1
+	{ 
+	color: #834991; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:11.5px; background-color:#B1EDF3 
+	}
+
+
+.title
+	{ 
+	color: #834991; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:25px;
+	padding-left:10px;
+	padding-top:10px;
+	padding-bottom:10px; 
+	
+	}
+	
+	.title1
+	{ 
+	color: #08CA31; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:16.5px;
+	font-weight:bold;
+	padding-left:10px;	
+	} 
+	
+	.title2
+	{ 
+	color: #109502; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	
+	border-bottom: 2px solid #FF9A00;	
+	 
+	} 
+.more 
+	{ 
+	color: #ff0000; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:11px; 
+	}
+
+.textbox1 
+	{ 
+	color: #834991; 
+	font-family: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+	font-size:11px; 
+	}
+	
+.linkaddress
+{
+FONT-SIZE: 11px;
+COLOR: #000000;
+FONT-FAMILY: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+TEXT-DECORATION: none;
+
+}
+
+
+	
+/*Sub Heading Menu Mouseover hyperlink effect*/
+A.submnu1 {
+FONT-SIZE: 11px;
+COLOR: #834991;
+FONT-FAMILY: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+TEXT-DECORATION: none;
+}
+a:hover.submnu1 {
+FONT-SIZE: 11px;
+COLOR: red;
+FONT-FAMILY: Tahoma;
+TEXT-DECORATION: none;
+border-left-width:1px;
+border-right-width:1px;
+border-top-width:1px;
+border-bottom-style:none;
+border-bottom-width:1px
+}
+
+/*Sub Heading1 Menu Mouseover hyperlink effect*/
+A.submnu2 {
+FONT-SIZE: 11px;
+COLOR: #834991;
+FONT-FAMILY: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+TEXT-DECORATION: none;
+}
+a:hover.submnu2 {
+FONT-SIZE: 11px;
+COLOR: #FF0000;
+FONT-FAMILY: Tahoma;
+TEXT-DECORATION: underline;
+border-left-width:1px;
+border-right-width:1px;
+border-top-width:1px;
+border-bottom-style:none;
+border-bottom-width:1px
+}
+
+
+
+/*Sub Heading1 Menu Mouseover hyperlink effect*/
+A.submnu3 {
+FONT-SIZE: 12px;
+COLOR: #834991;
+FONT-FAMILY: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+TEXT-DECORATION: none;
+}
+a:hover.submnu3 {
+FONT-SIZE: 12px;
+COLOR: #FF0000;
+FONT-FAMILY: Tahoma;
+TEXT-DECORATION: underline;
+border-left-width:1px;
+border-right-width:1px;
+border-top-width:1px;
+border-bottom-style:none;
+border-bottom-width:1px
+}
+
+
+
+/*side bar  Menu Mouseover hyperlink effect*/
+A.submnu4 {
+FONT-SIZE: 12px;
+COLOR: #0033FF;
+FONT-FAMILY: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+TEXT-DECORATION: none;
+}
+a:hover.submnu4 {
+FONT-SIZE: 12px;
+COLOR: red;
+FONT-FAMILY: Tahoma;
+TEXT-DECORATION: underline;
+}
+
+/*New registration Mouseover hyperlink effect*/
+A.submnu5 {
+FONT-SIZE: 12px;
+COLOR: #ffffff;
+FONT-FAMILY: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+TEXT-DECORATION: none;
+}
+a:hover.submnu5 {
+FONT-SIZE: 12px;
+COLOR: red;
+FONT-FAMILY: Tahoma;
+TEXT-DECORATION: underline;
+}
+
+/*Forget password Mouseover hyperlink effect*/
+A.submnu6 {
+FONT-SIZE: 12px;
+COLOR:red ;
+FONT-FAMILY: Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+TEXT-DECORATION: none;
+}
+a:hover.submnu6 {
+FONT-SIZE: 12px;
+COLOR: #ffffff;
+FONT-FAMILY: Tahoma;
+TEXT-DECORATION: underline;
+}
+
+
+.MsgLabel
+{
+ font-family:Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+  font-size:9pt;
+   color:Red;
+}
+
+
+A:link
+{    
+    font-family:   Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+	BACKGROUND: none;
+    color:  #FF9A00;
+    border-bottom: 1px solid #F9C951;
+}
+
+A:visited
+{
+    font-family:  Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+	BACKGROUND: none;
+    color: #FF9A00;
+    border-bottom: 1px solid #F9C951;
+}
+
+A:active
+{
+    font-family:  Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+	BACKGROUND: none;
+    color: #FF9A00;
+    border-bottom: 1px solid #F9C951;
+}
+
+A:hover
+{
+    font-family:   Arial, Helvetica, AvantGarde Bk BT, Bodoni MT, Verdana, sans-serif;
+    font-size: 11pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none ;
+    
+	BACKGROUND: none;
+    color: #FF9A00;
+    border-bottom: 2px solid #1CBC0B;
+}
